@@ -1,7 +1,7 @@
 # Biblioteca de livros
 <p align="center">App para controle de livros com ações para cadasro, edição e exclusão de livros</p>
 <p align="center">
-![Home Page](frontend/src/img/index.png)
+![HomePage](https://github.com/wellington-lima/biblioteca/issues/1#issue-1273423983)
 </p>
 <hr>
 
