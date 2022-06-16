@@ -1,0 +1,18 @@
+-- Table: public.livros
+
+-- DROP TABLE IF EXISTS public.livros;
+
+CREATE TABLE IF NOT EXISTS public.livros
+(
+    id integer NOT NULL DEFAULT nextval('livros_id_seq'::regclass),
+    titulo character varying COLLATE pg_catalog."default" NOT NULL,
+    autor character varying COLLATE pg_catalog."default" NOT NULL,
+    editora character varying COLLATE pg_catalog."default" NOT NULL,
+    paginas integer NOT NULL,
+    CONSTRAINT livros_pkey PRIMARY KEY (id, titulo)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.livros
+    OWNER to postgres;
