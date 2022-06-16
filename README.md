@@ -1,7 +1,7 @@
 # Biblioteca de livros
 <p align="center">App para controle de livros com ações para cadasro, edição e exclusão de livros</p>
 <p align="center">
-![Home Page](./frontend/src/img/index.png)
+![Home Page](frontend/src/img/index.png)
 </p>
 <hr>
 
