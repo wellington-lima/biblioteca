@@ -1,7 +1,16 @@
 # Biblioteca de livros
 <p align="center">App para controle de livros com ações para cadasro, edição e exclusão de livros</p>
 <p align="center">
-![HomePage](https://github.com/wellington-lima/biblioteca/issues/1#issue-1273423983)
+<div align="center">
+ <table>
+ <tr>
+  <td><img src="https://github.com/wellington-lima/biblioteca/blob/fc4536ef5d9ca5a988bdc10ad9f199cedc255a37/frontend/src/img/index.png" width="400px" /></td>
+  <td><img src="https://github.com/wellington-lima/biblioteca/blob/fc4536ef5d9ca5a988bdc10ad9f199cedc255a37/frontend/src/img/save.png" width="400" /></td>
+  <td><img src="https://github.com/wellington-lima/biblioteca/blob/fc4536ef5d9ca5a988bdc10ad9f199cedc255a37/frontend/src/img/update.png" width="400" /></td>
+ </tr>
+</table>
+
+</div>
 </p>
 <hr>
 
